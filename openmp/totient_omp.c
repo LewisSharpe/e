@@ -1,4 +1,3 @@
-// TotientRance.c - Sequential Euler Totient Function (C Version)
 // compile: gcc -Wall -O -o totient_omp totient_omp.c
 // run:     ./totient_omp lower_num uppper_num
 
